@@ -1,0 +1,8 @@
+com\example\pdffree_backend\dto\UserResponse.class
+com\example\pdffree_backend\dto\LoginRequest.class
+com\example\pdffree_backend\service\UserService.class
+com\example\pdffree_backend\PdffreeBackendApplication.class
+com\example\pdffree_backend\controller\AuthController.class
+com\example\pdffree_backend\dto\RegisterRequest.class
+com\example\pdffree_backend\repository\UserRepository.class
+com\example\pdffree_backend\model\User.class
